@@ -1,4 +1,4 @@
-#
+
 /*=============== SHOW / HIDDEN INPUT ===============*/
 const showHiddenInput = (inputOverlay, inputPass, inputIcon) =>{
     const overlay = document.getElementById(inputOverlay),
